@@ -1,4 +1,4 @@
-import { isHarshad } from '../isHarshad.js'
+import { isHarshad } from '../IsHarshad.js'
 
 describe('Harshad number tests', () => {
   test('Basic Harshad numbers', () => {
