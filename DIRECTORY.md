@@ -215,7 +215,7 @@
   * [IntToBase](Maths/IntToBase.js)
   * [IsDivisible](Maths/IsDivisible.js)
   * [IsEven](Maths/IsEven.js)
-  * [isHarshad](Maths/isHarshad.js)
+  * [IsHarshad](Maths/IsHarshad.js)
   * [IsOdd](Maths/IsOdd.js)
   * [isPalindromeIntegerNumber](Maths/isPalindromeIntegerNumber.js)
   * [IsPronic](Maths/IsPronic.js)
